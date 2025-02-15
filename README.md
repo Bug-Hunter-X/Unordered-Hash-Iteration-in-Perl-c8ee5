@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon error in Perl related to hash iteration order.  Perl does not guarantee the order of elements in a hash when iterating using keys().  The example code shows this unpredictable behavior. A solution is provided that demonstrates how to maintain order if needed.
